@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449157722346",
+    "firebase_url": "https://neotalk-576f7.firebaseio.com",
+    "project_id": "neotalk-576f7",
+    "storage_bucket": "neotalk-576f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449157722346:android:c0d68b989a42d8b8",
+        "android_client_info": {
+          "package_name": "neotalk.neolabs.com.neotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449157722346-ujfsag0f7mkpk135n3h4in3unnotl13t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neotalk.neolabs.com.neotalk",
+            "certificate_hash": "922433e57396afab3c5020118d723131fe78ebd2"
+          }
+        },
+        {
+          "client_id": "449157722346-u0egop8cb3tnbg7kepj8to1cn27l4f8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Q9uJKM4BriOh74dHZwO0mtUtMIqpK-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449157722346-u0egop8cb3tnbg7kepj8to1cn27l4f8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
